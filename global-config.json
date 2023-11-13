@@ -1,3 +1,6 @@
 {
-  "repoConfigMode": "createOnboardingPR"
+  "repoConfigMode": "pushwhitesourceFile",
+  "ignoredRepos": {
+    "exactNames": ["DimaMend/testIgnoredRepos"]
+  }
 }
