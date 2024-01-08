@@ -1,5 +1,6 @@
 {
   "repoConfigMode": "pushwhitesourceFile",
+  "enableCustomProductMapping": "true",
   "ignoredRepos": {
     "exactNames": ["DimaMend/testIgnoredRepos"]
   }
