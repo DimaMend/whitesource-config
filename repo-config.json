@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://raw.githubusercontent.com/DimaMend/external-config/refs/heads/main/whitesource.config",
     "baseBranches": [],
     "enableLicenseViolations": "true",
     "displayLicenseViolations": "true",
